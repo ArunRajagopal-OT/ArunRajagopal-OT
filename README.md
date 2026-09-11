@@ -17,22 +17,8 @@ I work where **industrial engineering, cybersecurity and operational risk** meet
 I focus on turning cyber requirements into engineering decisions that support **safety, availability and operational continuity** — from architecture and risk assessment through product security and assurance.
 
 <p align="center">
-  <img src="./assets/ot-architecture.svg" width="100%" alt="Simplified animated OT security architecture showing enterprise, industrial DMZ, OT/SCADA, PLC and safety zones" />
+  <img src="./assets/engineering-console.svg" width="100%" alt="Animated engineering console showing Arun Rajagopal's focus areas across OT security architecture, risk and assurance, product security and industrial systems" />
 </p>
-
-## Engineering focus
-
-**OT SECURITY ARCHITECTURE**  
-Zones and conduits · IT/OT segmentation · secure remote access · supplier integration
-
-**RISK & ASSURANCE**  
-IEC 62443 risk assessment · NCSC CAF · NIS/NIS2 · design and commissioning assurance
-
-**PRODUCT SECURITY**  
-Secure development · vulnerability management · IEC 62443-4-1 / 4-2 · Cyber Resilience Act
-
-**STRATEGY & LEADERSHIP**  
-Cybersecurity governance · improvement roadmaps · programme delivery · engineering leadership
 
 ## Systems, standards & domains
 

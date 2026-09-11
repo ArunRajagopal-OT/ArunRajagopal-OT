@@ -9,11 +9,11 @@
       <stop offset="100%" stop-color="#0b0f14"/>
     </linearGradient>
     <clipPath id="cmdClip"><rect x="52" y="60" width="0" height="30"><animate attributeName="width" values="0;690;690" keyTimes="0;0.10;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
-    <clipPath id="l1Clip"><rect x="52" y="60" width="0" height="30"><animate attributeName="width" values="0;0;700;700" keyTimes="0;0.14;0.24;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
-    <clipPath id="l2Clip"><rect x="52" y="60" width="0" height="30"><animate attributeName="width" values="0;0;700;700" keyTimes="0;0.28;0.38;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
-    <clipPath id="l3Clip"><rect x="52" y="60" width="0" height="30"><animate attributeName="width" values="0;0;700;700" keyTimes="0;0.42;0.52;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
-    <clipPath id="l4Clip"><rect x="52" y="60" width="0" height="30"><animate attributeName="width" values="0;0;760;760" keyTimes="0;0.56;0.66;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
-    <clipPath id="focusClip"><rect x="52" y="60" width="0" height="30"><animate attributeName="width" values="0;0;820;820" keyTimes="0;0.68;0.78;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="l1Clip"><rect x="52" y="60" width="0" height="30"><animate attributeName="width" values="0;0;890;890" keyTimes="0;0.14;0.24;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="l2Clip"><rect x="52" y="60" width="0" height="30"><animate attributeName="width" values="0;0;890;890" keyTimes="0;0.28;0.38;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="l3Clip"><rect x="52" y="60" width="0" height="30"><animate attributeName="width" values="0;0;890;890" keyTimes="0;0.42;0.52;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="l4Clip"><rect x="52" y="60" width="0" height="30"><animate attributeName="width" values="0;0;890;890" keyTimes="0;0.56;0.66;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="focusClip"><rect x="52" y="60" width="0" height="30"><animate attributeName="width" values="0;0;890;890" keyTimes="0;0.68;0.78;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
   </defs>
 
   <rect width="1000" height="360" rx="16" fill="url(#panel)"/>

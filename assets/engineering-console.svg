@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img" aria-labelledby="title desc">
+  <title id="title">Arun Rajagopal Engineering Console</title>
+  <desc id="desc">A restrained animated terminal-style engineering console highlighting OT security, risk and assurance, product security and industrial systems.</desc>
+
+  <defs>
+    <linearGradient id="panel" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="55%" stop-color="#11161d"/>
+      <stop offset="100%" stop-color="#0b0f14"/>
+    </linearGradient>
+    <clipPath id="cmdClip"><rect x="52" y="0" width="0" height="24"><animate attributeName="width" values="0;690;690" keyTimes="0;0.16;1" dur="10s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="l1Clip"><rect x="52" y="0" width="0" height="22"><animate attributeName="width" values="0;0;700;700" keyTimes="0;0.18;0.34;1" dur="10s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="l2Clip"><rect x="52" y="0" width="0" height="22"><animate attributeName="width" values="0;0;700;700" keyTimes="0;0.34;0.50;1" dur="10s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="l3Clip"><rect x="52" y="0" width="0" height="22"><animate attributeName="width" values="0;0;700;700" keyTimes="0;0.50;0.66;1" dur="10s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="l4Clip"><rect x="52" y="0" width="0" height="22"><animate attributeName="width" values="0;0;760;760" keyTimes="0;0.66;0.82;1" dur="10s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="focusClip"><rect x="52" y="0" width="0" height="24"><animate attributeName="width" values="0;0;820;820" keyTimes="0;0.78;0.94;1" dur="10s" repeatCount="indefinite"/></rect></clipPath>
+  </defs>
+
+  <rect width="1000" height="360" rx="16" fill="url(#panel)"/>
+  <rect x="1" y="1" width="998" height="358" rx="15" fill="none" stroke="#30363d"/>
+
+  <circle cx="30" cy="27" r="5" fill="#484f58"/>
+  <circle cx="48" cy="27" r="5" fill="#484f58"/>
+  <circle cx="66" cy="27" r="5" fill="#484f58"/>
+  <text x="90" y="33" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">engineering-console</text>
+  <line x1="24" y1="49" x2="976" y2="49" stroke="#21262d"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <g transform="translate(0 0)" clip-path="url(#cmdClip)">
+      <text x="52" y="82" fill="#8b949e" font-size="17">arun@ot-security:~$ </text>
+      <text x="238" y="82" fill="#f0f6fc" font-size="17">./engineering-profile --status</text>
+    </g>
+
+    <g transform="translate(0 43)" clip-path="url(#l1Clip)">
+      <text x="52" y="82" fill="#c9d1d9" font-size="17">[01]  OT SECURITY ARCHITECTURE</text>
+      <text x="430" y="82" fill="#6e7681" font-size="17">................</text>
+      <text x="708" y="82" fill="#3fb950" font-size="17" font-weight="700">ACTIVE</text>
+    </g>
+    <text x="84" y="148" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" opacity="0">zones &amp; conduits  ·  segmentation  ·  secure remote access
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.31;0.36;1" dur="10s" repeatCount="indefinite"/>
+    </text>
+
+    <g transform="translate(0 96)" clip-path="url(#l2Clip)">
+      <text x="52" y="82" fill="#c9d1d9" font-size="17">[02]  RISK &amp; ASSURANCE</text>
+      <text x="350" y="82" fill="#6e7681" font-size="17">........................</text>
+      <text x="708" y="82" fill="#3fb950" font-size="17" font-weight="700">ACTIVE</text>
+    </g>
+    <text x="84" y="201" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" opacity="0">IEC 62443  ·  NCSC CAF  ·  NIS / NIS2  ·  design assurance
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.47;0.52;1" dur="10s" repeatCount="indefinite"/>
+    </text>
+
+    <g transform="translate(0 149)" clip-path="url(#l3Clip)">
+      <text x="52" y="82" fill="#c9d1d9" font-size="17">[03]  PRODUCT SECURITY</text>
+      <text x="350" y="82" fill="#6e7681" font-size="17">........................</text>
+      <text x="708" y="82" fill="#3fb950" font-size="17" font-weight="700">ACTIVE</text>
+    </g>
+    <text x="84" y="254" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" opacity="0">secure development  ·  vulnerability management  ·  CRA readiness
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.63;0.68;1" dur="10s" repeatCount="indefinite"/>
+    </text>
+
+    <g transform="translate(0 202)" clip-path="url(#l4Clip)">
+      <text x="52" y="82" fill="#c9d1d9" font-size="17">[04]  INDUSTRIAL SYSTEMS</text>
+      <text x="376" y="82" fill="#6e7681" font-size="17">......................</text>
+      <text x="708" y="82" fill="#3fb950" font-size="17" font-weight="700">ACTIVE</text>
+    </g>
+    <text x="84" y="307" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" opacity="0">PLC  ·  SCADA  ·  DCS  ·  SIS  ·  industrial networks
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.79;0.84;1" dur="10s" repeatCount="indefinite"/>
+    </text>
+
+    <line x1="52" y1="326" x2="948" y2="326" stroke="#21262d"/>
+    <g transform="translate(0 270)" clip-path="url(#focusClip)">
+      <text x="52" y="82" fill="#58a6ff" font-size="14">CURRENT FOCUS &gt;</text>
+      <text x="190" y="82" fill="#f0f6fc" font-size="14"> IEC 62443  ·  OT Cybersecurity  ·  Cyber Resilience Act</text>
+    </g>
+
+    <rect x="855" y="337" width="9" height="15" rx="1" fill="#3fb950">
+      <animate attributeName="opacity" values="1;0.15;1" dur="1.05s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

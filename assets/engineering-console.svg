@@ -8,12 +8,12 @@
       <stop offset="55%" stop-color="#11161d"/>
       <stop offset="100%" stop-color="#0b0f14"/>
     </linearGradient>
-    <clipPath id="cmdClip"><rect x="52" y="0" width="0" height="24"><animate attributeName="width" values="0;690;690" keyTimes="0;0.16;1" dur="10s" repeatCount="indefinite"/></rect></clipPath>
-    <clipPath id="l1Clip"><rect x="52" y="0" width="0" height="22"><animate attributeName="width" values="0;0;700;700" keyTimes="0;0.18;0.34;1" dur="10s" repeatCount="indefinite"/></rect></clipPath>
-    <clipPath id="l2Clip"><rect x="52" y="0" width="0" height="22"><animate attributeName="width" values="0;0;700;700" keyTimes="0;0.34;0.50;1" dur="10s" repeatCount="indefinite"/></rect></clipPath>
-    <clipPath id="l3Clip"><rect x="52" y="0" width="0" height="22"><animate attributeName="width" values="0;0;700;700" keyTimes="0;0.50;0.66;1" dur="10s" repeatCount="indefinite"/></rect></clipPath>
-    <clipPath id="l4Clip"><rect x="52" y="0" width="0" height="22"><animate attributeName="width" values="0;0;760;760" keyTimes="0;0.66;0.82;1" dur="10s" repeatCount="indefinite"/></rect></clipPath>
-    <clipPath id="focusClip"><rect x="52" y="0" width="0" height="24"><animate attributeName="width" values="0;0;820;820" keyTimes="0;0.78;0.94;1" dur="10s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="cmdClip"><rect x="52" y="60" width="0" height="30"><animate attributeName="width" values="0;690;690" keyTimes="0;0.10;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="l1Clip"><rect x="52" y="60" width="0" height="30"><animate attributeName="width" values="0;0;700;700" keyTimes="0;0.14;0.24;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="l2Clip"><rect x="52" y="60" width="0" height="30"><animate attributeName="width" values="0;0;700;700" keyTimes="0;0.28;0.38;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="l3Clip"><rect x="52" y="60" width="0" height="30"><animate attributeName="width" values="0;0;700;700" keyTimes="0;0.42;0.52;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="l4Clip"><rect x="52" y="60" width="0" height="30"><animate attributeName="width" values="0;0;760;760" keyTimes="0;0.56;0.66;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="focusClip"><rect x="52" y="60" width="0" height="30"><animate attributeName="width" values="0;0;820;820" keyTimes="0;0.68;0.78;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
   </defs>
 
   <rect width="1000" height="360" rx="16" fill="url(#panel)"/>
@@ -26,7 +26,7 @@
   <line x1="24" y1="49" x2="976" y2="49" stroke="#21262d"/>
 
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
-    <g transform="translate(0 0)" clip-path="url(#cmdClip)">
+    <g clip-path="url(#cmdClip)">
       <text x="52" y="82" fill="#8b949e" font-size="17">arun@ot-security:~$ </text>
       <text x="238" y="82" fill="#f0f6fc" font-size="17">./engineering-profile --status</text>
     </g>
@@ -36,8 +36,8 @@
       <text x="430" y="82" fill="#6e7681" font-size="17">................</text>
       <text x="708" y="82" fill="#3fb950" font-size="17" font-weight="700">ACTIVE</text>
     </g>
-    <text x="84" y="148" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" opacity="0">zones &amp; conduits  ·  segmentation  ·  secure remote access
-      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.31;0.36;1" dur="10s" repeatCount="indefinite"/>
+    <text x="84" y="148" fill="#8b949e" font-size="13" opacity="0">zones &amp; conduits  ·  segmentation  ·  secure remote access
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.23;0.27;1" dur="12s" repeatCount="indefinite"/>
     </text>
 
     <g transform="translate(0 96)" clip-path="url(#l2Clip)">
@@ -45,8 +45,8 @@
       <text x="350" y="82" fill="#6e7681" font-size="17">........................</text>
       <text x="708" y="82" fill="#3fb950" font-size="17" font-weight="700">ACTIVE</text>
     </g>
-    <text x="84" y="201" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" opacity="0">IEC 62443  ·  NCSC CAF  ·  NIS / NIS2  ·  design assurance
-      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.47;0.52;1" dur="10s" repeatCount="indefinite"/>
+    <text x="84" y="201" fill="#8b949e" font-size="13" opacity="0">IEC 62443  ·  NCSC CAF  ·  NIS / NIS2  ·  design assurance
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.37;0.41;1" dur="12s" repeatCount="indefinite"/>
     </text>
 
     <g transform="translate(0 149)" clip-path="url(#l3Clip)">
@@ -54,8 +54,8 @@
       <text x="350" y="82" fill="#6e7681" font-size="17">........................</text>
       <text x="708" y="82" fill="#3fb950" font-size="17" font-weight="700">ACTIVE</text>
     </g>
-    <text x="84" y="254" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" opacity="0">secure development  ·  vulnerability management  ·  CRA readiness
-      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.63;0.68;1" dur="10s" repeatCount="indefinite"/>
+    <text x="84" y="254" fill="#8b949e" font-size="13" opacity="0">secure development  ·  vulnerability management  ·  CRA readiness
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.51;0.55;1" dur="12s" repeatCount="indefinite"/>
     </text>
 
     <g transform="translate(0 202)" clip-path="url(#l4Clip)">
@@ -63,8 +63,8 @@
       <text x="376" y="82" fill="#6e7681" font-size="17">......................</text>
       <text x="708" y="82" fill="#3fb950" font-size="17" font-weight="700">ACTIVE</text>
     </g>
-    <text x="84" y="307" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" opacity="0">PLC  ·  SCADA  ·  DCS  ·  SIS  ·  industrial networks
-      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.79;0.84;1" dur="10s" repeatCount="indefinite"/>
+    <text x="84" y="307" fill="#8b949e" font-size="13" opacity="0">PLC  ·  SCADA  ·  DCS  ·  SIS  ·  industrial networks
+      <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.65;0.69;1" dur="12s" repeatCount="indefinite"/>
     </text>
 
     <line x1="52" y1="326" x2="948" y2="326" stroke="#21262d"/>
@@ -73,7 +73,7 @@
       <text x="190" y="82" fill="#f0f6fc" font-size="14"> IEC 62443  ·  OT Cybersecurity  ·  Cyber Resilience Act</text>
     </g>
 
-    <rect x="855" y="337" width="9" height="15" rx="1" fill="#3fb950">
+    <rect x="862" y="337" width="9" height="15" rx="1" fill="#3fb950">
       <animate attributeName="opacity" values="1;0.15;1" dur="1.05s" repeatCount="indefinite"/>
     </rect>
   </g>

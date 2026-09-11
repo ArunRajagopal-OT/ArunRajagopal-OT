@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Arun Rajagopal — Principal Cybersecurity Advisor and Architect" />
+  <img src="./assets/header.svg" width="100%" alt="Arun Rajagopal - Principal Cybersecurity Advisor and Architect" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 I work where **industrial engineering, cybersecurity and operational risk** meet. My background spans more than 25 years across automation, control systems, engineering leadership and cybersecurity.
 
-I focus on turning cyber requirements into engineering decisions that support **safety, availability and operational continuity** — from architecture and risk assessment through product security and assurance.
+I focus on turning cyber requirements into engineering decisions that support **safety, availability and operational continuity**, from architecture and risk assessment through product security and assurance.
 
 <p align="center">
   <img src="./assets/engineering-console.svg" width="100%" alt="Animated engineering console showing Arun Rajagopal's focus areas across OT security architecture, risk and assurance, product security and industrial systems" />
@@ -28,24 +28,18 @@ I focus on turning cyber requirements into engineering decisions that support **
 
 Oil & gas · Energy & renewables · Rail & transportation · Pharmaceuticals & life sciences · Manufacturing · Aviation
 
-## What this GitHub is for
-
-This is my technical workspace for practical material around **OT security architecture, industrial cybersecurity engineering, standards-led assurance and secure-by-design thinking**.
-
-Rather than duplicate my professional website, I use GitHub to share technical work, architecture patterns, engineering notes and projects that can be inspected, reused and improved.
-
 <details>
 <summary><strong>Credentials & professional standing</strong></summary>
 <br>
 
-- **Chartered Engineer (CEng)** — Engineering Council UK
+- **Chartered Engineer (CEng)** | Engineering Council UK
 - **ISA/IEC 62443 Cybersecurity Expert**
 - **ISASecure ACSSA for Evaluators Specialist (IC49)**
-- **Certified Functional Safety Expert** — TÜV SÜD
-- **Certified Automotive Cybersecurity Practitioner (CACSP)** — TÜV SÜD, ISO/SAE 21434
+- **Certified Functional Safety Expert** | TÜV SÜD
+- **Certified Automotive Cybersecurity Practitioner (CACSP)** | TÜV SÜD, ISO/SAE 21434
 - **Senior Member, International Society of Automation** and former President, ISA UK Section
-- Executive MBA — Henley Business School
-- BEng (Hons), Electronic & Communication Engineering — Robert Gordon University, Aberdeen
+- Executive MBA | Henley Business School
+- BEng (Hons), Electronic & Communication Engineering | Robert Gordon University, Aberdeen
 
 </details>
 

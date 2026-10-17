@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="286" viewBox="0 0 1000 286" role="img" aria-labelledby="title desc">
+  <title id="title">Publication: The EU Cyber Resilience Act: What Does It Mean for UK Suppliers?</title>
+  <desc id="desc">Featured article by Arun Rajagopal, published by Automation.com, International Society of Automation (ISA), in the Navigating CRA column, 16 October 2026.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="55%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0%" stop-color="#2f81f7"/>
+      <stop offset="100%" stop-color="#39d0d8"/>
+    </linearGradient>
+    <linearGradient id="rule" gradientUnits="userSpaceOnUse" x1="52" y1="0" x2="612" y2="0">
+      <stop offset="0%" stop-color="#2f81f7"/>
+      <stop offset="100%" stop-color="#39d0d8"/>
+    </linearGradient>
+    <linearGradient id="accentV" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#2f81f7"/>
+      <stop offset="100%" stop-color="#39d0d8"/>
+    </linearGradient>
+    <linearGradient id="scan" x1="0" x2="1">
+      <stop offset="0%" stop-color="#39d0d8" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#39d0d8" stop-opacity="0.07"/>
+      <stop offset="100%" stop-color="#39d0d8" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="card"><rect width="1000" height="286" rx="18"/></clipPath>
+    <style>
+      .sans { font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+      .draw { stroke-dasharray: 560; animation: draw 1.6s ease-out 0.3s both; }
+      .scan { animation: scan 9s linear infinite; }
+      .pulse { animation: pulse 2.4s ease-in-out infinite; }
+      @keyframes draw { from { stroke-dashoffset: 560; } to { stroke-dashoffset: 0; } }
+      @keyframes scan { 0% { transform: translateX(-260px); } 60%, 100% { transform: translateX(1000px); } }
+      @keyframes pulse { 0%, 100% { opacity: 0.35; } 50% { opacity: 1; } }
+      @media (prefers-reduced-motion: reduce) {
+        .draw { animation: none; stroke-dashoffset: 0; }
+        .scan { animation: none; opacity: 0; }
+        .pulse { animation: none; opacity: 1; }
+      }
+    </style>
+  </defs>
+
+  <rect width="1000" height="286" rx="18" fill="url(#bg)"/>
+
+  <g clip-path="url(#card)">
+    <rect class="scan" x="0" y="0" width="260" height="286" fill="url(#scan)"/>
+  </g>
+  <rect x="1" y="1" width="998" height="284" rx="17" fill="none" stroke="#30363d"/>
+  <rect x="26" y="40" width="3" height="206" rx="1.5" fill="url(#accentV)"/>
+
+  <!-- restrained industrial-network motif -->
+  <g opacity="0.15" stroke="#58a6ff" stroke-width="1.4" fill="none">
+    <path d="M770 40 H860 V74 H955"/>
+    <circle cx="770" cy="40" r="4" fill="#58a6ff"/>
+    <circle cx="955" cy="74" r="4" fill="#58a6ff"/>
+  </g>
+
+  <!-- index numeral: room for further publications -->
+  <text x="930" y="196" text-anchor="end" class="sans" font-size="120" font-weight="700" fill="none" stroke="#30363d" stroke-width="1.2" letter-spacing="-2">01</text>
+
+  <!-- masthead -->
+  <circle cx="56" cy="49.5" r="3" fill="#39d0d8" filter="url(#glow)" class="pulse"/>
+  <text x="70" y="54" class="mono" font-size="13" fill="#8b949e" letter-spacing="1.6">PUBLISHED ARTICLE<tspan fill="#484f58">  /  </tspan><tspan fill="#58a6ff">NAVIGATING CRA</tspan> COLUMN</text>
+
+  <text x="52" y="84" class="sans" font-size="15" fill="#c9d1d9" letter-spacing="0.2"><tspan font-weight="700" fill="#f0f6fc">Automation.com</tspan><tspan fill="#6e7681">   ·   </tspan>International Society of Automation (ISA)</text>
+
+  <line x1="52" y1="106" x2="612" y2="106" stroke="url(#rule)" stroke-width="2" stroke-linecap="round" opacity="0.55"/>
+  <line class="draw" x1="52" y1="106" x2="612" y2="106" stroke="url(#rule)" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- hero title -->
+  <text class="sans" font-size="31" font-weight="700" fill="#f0f6fc" letter-spacing="0.1">
+    <tspan x="52" y="152">The EU Cyber Resilience Act:</tspan>
+    <tspan x="52" y="192">What Does It Mean for UK Suppliers?</tspan>
+  </text>
+
+  <!-- byline -->
+  <text x="52" y="236" class="sans" font-size="14" fill="#8b949e">By <tspan fill="#c9d1d9" font-weight="600">Arun Rajagopal</tspan><tspan fill="#6e7681">   ·   </tspan>16 October 2026</text>
+
+  <!-- call to action -->
+  <g transform="translate(726 210)">
+    <rect width="210" height="42" rx="21" fill="#0d1117" stroke="url(#accent)" stroke-width="1.4"/>
+    <text x="30" y="26.5" class="sans" font-size="15" font-weight="600" fill="#f0f6fc">Read the article</text>
+    <path d="M160 21 H180 M173 14 L180 21 L173 28" stroke="#39d0d8" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

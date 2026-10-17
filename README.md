@@ -43,6 +43,22 @@ Oil & gas · Energy & renewables · Rail & transportation · Pharmaceuticals & l
 
 </details>
 
+## Publications
+
+<p align="center">
+  <a href="https://www.automation.com/article/the-eu-cyber-resilience-act-what-does-it-mean-uk-suppliers"><img src="./assets/publications.svg" width="100%" alt="Featured article by Arun Rajagopal: The EU Cyber Resilience Act: What Does It Mean for UK Suppliers? Published by Automation.com, International Society of Automation (ISA), Navigating CRA column, 16 October 2026" /></a>
+</p>
+
+Read the article: [The EU Cyber Resilience Act: What Does It Mean for UK Suppliers?](https://www.automation.com/article/the-eu-cyber-resilience-act-what-does-it-mean-uk-suppliers) · Automation.com, *Navigating CRA* column
+
+## Speaking opportunities
+
+<p align="center">
+  <a href="https://arunrajagopal-ot.github.io/"><img src="./assets/speaking.svg" width="100%" alt="Upcoming engagements: Panelist, Who Owns the Decision?, Industrial Cyber Days (link to follow); ICS Switzerland Webinar (details to follow)" /></a>
+</p>
+
+Upcoming: Panelist, "Who Owns the Decision?", Industrial Cyber Days (link to follow) · ICS Switzerland Webinar (details to follow)
+
 ---
 
 <p align="center">

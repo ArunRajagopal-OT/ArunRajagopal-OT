@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-labelledby="title desc">
-  <title id="title">Upcoming engagements</title>
-  <desc id="desc">Upcoming speaking engagements for Arun Rajagopal: Panelist, Who Owns the Decision?, Industrial Cyber Days, link to follow; and ICS Switzerland Webinar, details to follow.</desc>
+  <title id="title">Speaking engagements</title>
+  <desc id="desc">Speaking engagements for Arun Rajagopal. Past: Panelist, Who Owns the Decision?, Industrial Cyber Days 2026, Critical Infrastructure APAC and EMEA, 13 to 14 October 2026, virtual; highlights available. Upcoming: ICS Switzerland webinar, IEC 62443 for asset owners: the ACSSA ISA Secure certification scheme, Thursday 22 October 2026, 4:00 to 4:30 pm CEST, online.</desc>
 
   <defs>
     <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
@@ -66,46 +66,49 @@
 
   <!-- header -->
   <text x="52" y="56" class="mono" font-size="13" fill="#8b949e" letter-spacing="1.6">SPEAKING</text>
-  <text x="52" y="88" class="sans" font-size="26" font-weight="700" fill="#f0f6fc" letter-spacing="0.2">Upcoming engagements</text>
+  <text x="52" y="88" class="sans" font-size="26" font-weight="700" fill="#f0f6fc" letter-spacing="0.2">Recent and upcoming engagements</text>
 
   <!-- status chip -->
-  <g transform="translate(736 56)">
-    <rect width="212" height="34" rx="17" fill="#0d1117" stroke="#30363d"/>
+  <g transform="translate(776 56)">
+    <rect width="172" height="34" rx="17" fill="#0d1117" stroke="#30363d"/>
     <circle cx="22" cy="17" r="4" fill="#39d0d8" class="ring"/>
     <circle cx="22" cy="17" r="4" fill="#39d0d8" filter="url(#glow)" class="pulse"/>
-    <text x="38" y="21.5" class="mono" font-size="12" fill="#c9d1d9" letter-spacing="1.4">ANNOUNCEMENT SOON</text>
+    <text x="38" y="21.5" class="mono" font-size="12" fill="#c9d1d9" letter-spacing="1.4">2 ENGAGEMENTS</text>
   </g>
 
   <line x1="52" y1="114" x2="948" y2="114" stroke="url(#rule)" stroke-width="1.5" stroke-linecap="round" opacity="0.5"/>
   <line class="draw" x1="52" y1="114" x2="948" y2="114" stroke="url(#rule)" stroke-width="1.5" stroke-linecap="round"/>
 
   <!-- timeline spine -->
-  <line x1="76" y1="150" x2="76" y2="238" stroke="#484f58" stroke-width="1.4" stroke-dasharray="3 5"/>
+  <line x1="76" y1="146" x2="76" y2="228" stroke="#484f58" stroke-width="1.4" stroke-dasharray="3 5"/>
 
   <!-- engagement 01 -->
   <g>
-    <circle cx="76" cy="152" r="5" fill="#0d1117" stroke="#58a6ff" stroke-width="1.6"/>
-    <circle cx="76" cy="152" r="2" fill="#58a6ff" class="pulse"/>
-    <text x="104" y="146" class="mono" font-size="12" fill="#58a6ff" letter-spacing="1.4">01  ·  PANEL</text>
-    <text x="104" y="172" class="sans" font-size="19" font-weight="600" fill="#f0f6fc">Panelist, “Who Owns the Decision?”</text>
-    <text x="104" y="194" class="sans" font-size="14" fill="#8b949e">Industrial Cyber Days</text>
-    <g transform="translate(780 151)">
-      <rect width="168" height="28" rx="14" fill="none" stroke="#30363d"/>
-      <text x="84" y="18.5" text-anchor="middle" class="mono" font-size="11.5" fill="#8b949e" letter-spacing="1.1">LINK TO FOLLOW</text>
+    <circle cx="76" cy="146" r="5" fill="#0d1117" stroke="#58a6ff" stroke-width="1.6"/>
+    <circle cx="76" cy="146" r="2" fill="#58a6ff" class="pulse"/>
+    <text x="104" y="140" class="mono" font-size="12" fill="#58a6ff" letter-spacing="1.4">01  ·  PANEL</text>
+    <text x="104" y="165" class="sans" font-size="19" font-weight="600" fill="#f0f6fc">Panelist, “Who Owns the Decision?”</text>
+    <text x="104" y="186" class="sans" font-size="14" fill="#8b949e">Industrial Cyber Days 2026  ·  Critical Infrastructure APAC &amp; EMEA  ·  Virtual</text>
+    <g transform="translate(752 140)">
+      <rect width="196" height="28" rx="14" fill="none" stroke="#30363d"/>
+      <text x="98" y="18.5" text-anchor="middle" class="mono" font-size="11.5" fill="#8b949e" letter-spacing="1.1">WATCH THE HIGHLIGHTS</text>
+      <text x="98" y="46" text-anchor="middle" class="mono" font-size="11" fill="#6e7681" letter-spacing="1.1">13 TO 14 OCT 2026</text>
     </g>
   </g>
 
-  <line x1="104" y1="214" x2="948" y2="214" stroke="#21262d"/>
+  <line x1="104" y1="204" x2="948" y2="204" stroke="#21262d"/>
 
   <!-- engagement 02 -->
   <g>
-    <circle cx="76" cy="240" r="5" fill="#0d1117" stroke="#39d0d8" stroke-width="1.6"/>
-    <circle cx="76" cy="240" r="2" fill="#39d0d8" class="pulse2"/>
-    <text x="104" y="236" class="mono" font-size="12" fill="#39d0d8" letter-spacing="1.4">02  ·  WEBINAR</text>
-    <text x="104" y="262" class="sans" font-size="19" font-weight="600" fill="#f0f6fc">ICS Switzerland Webinar</text>
-    <g transform="translate(780 241)">
-      <rect width="168" height="28" rx="14" fill="none" stroke="#30363d"/>
-      <text x="84" y="18.5" text-anchor="middle" class="mono" font-size="11.5" fill="#8b949e" letter-spacing="1.1">DETAILS TO FOLLOW</text>
+    <circle cx="76" cy="228" r="5" fill="#0d1117" stroke="#39d0d8" stroke-width="1.6"/>
+    <circle cx="76" cy="228" r="2" fill="#39d0d8" class="pulse2"/>
+    <text x="104" y="222" class="mono" font-size="12" fill="#39d0d8" letter-spacing="1.4">02  ·  WEBINAR</text>
+    <text x="104" y="247" class="sans" font-size="19" font-weight="600" fill="#f0f6fc">IEC 62443 for asset owners</text>
+    <text x="104" y="268" class="sans" font-size="14" fill="#8b949e">ICS Switzerland  ·  The ACSSA ISA Secure certification scheme  ·  Online</text>
+    <g transform="translate(752 222)">
+      <rect width="196" height="28" rx="14" fill="none" stroke="#30363d"/>
+      <text x="98" y="18.5" text-anchor="middle" class="mono" font-size="11.5" fill="#8b949e" letter-spacing="1.1">THU 22 OCT</text>
+      <text x="98" y="46" text-anchor="middle" class="mono" font-size="11" fill="#6e7681" letter-spacing="1.1">4:00 TO 4:30 PM CEST</text>
     </g>
   </g>
 </svg>

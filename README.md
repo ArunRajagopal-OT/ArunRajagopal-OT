@@ -54,11 +54,11 @@ Read the article: [The EU Cyber Resilience Act: What Does It Mean for UK Supplie
 ## Speaking opportunities
 
 <p align="center">
-  <a href="https://arunrajagopal-ot.github.io/#speaking"><img src="./assets/speaking.svg" width="100%" alt="Speaking engagements. Past: Panelist, Who Owns the Decision?, Industrial Cyber Days 2026, Critical Infrastructure APAC and EMEA, 13 to 14 October 2026, virtual, highlights available. Upcoming: ICS Switzerland webinar, IEC 62443 for asset owners: the ACSSA ISA Secure certification scheme, Thursday 22 October 2026, 4:00 to 4:30 pm CEST, online" /></a>
+  <a href="https://arunrajagopal-ot.github.io/#speaking"><img src="./assets/speaking.svg" width="100%" alt="Speaking engagements. Past: Panelist, Who Owns the Decision?, Industrial Cyber Days 2026, Critical Infrastructure APAC and EMEA, 13 to 14 October 2026, virtual, highlights available. Upcoming: ICS Security Switzerland webinar, How IEC 62443 enables Asset Owners demonstrate Cyber Maturity: ISA Secure ACSSA Certification Scheme for Asset Owners, Thursday 22 October 2026, 4:00 to 4:30 pm CEST, online" /></a>
 </p>
 
 Panelist, "Who Owns the Decision?", Industrial Cyber Days 2026 (13 to 14 Oct, virtual): [watch the highlights](https://arunrajagopal-ot.github.io/#speaking)<br>
-ICS Switzerland webinar, "IEC 62443 for asset owners: the ACSSA ISA Secure certification scheme", Thu 22 Oct 2026, 4:00 to 4:30 pm CEST (3:00 to 3:30 pm UK), online: [event details](https://www.icssec.ch/events/#event-2026-10-22)
+ICS Security Switzerland webinar, "How IEC 62443 enables Asset Owners demonstrate Cyber Maturity" (ISA Secure ACSSA Certification Scheme for Asset Owners), Thu 22 Oct 2026, 4:00 to 4:30 pm CEST (3:00 to 3:30 pm UK), online: [event details](https://www.icssec.ch/events/#event-2026-10-22)
 
 ---
 
